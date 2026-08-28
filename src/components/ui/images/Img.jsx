@@ -1,7 +1,7 @@
-const Img = function({src, alt}){
+const Img = function({src, alt, className}){
 
     return(
-        <img src= {src} alt= {alt} />
+        <img src= {src} alt= {alt} className= {className} />
     )
 }
 

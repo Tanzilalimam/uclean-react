@@ -4,8 +4,8 @@ import Img from '../../ui/images/Img'
 const Nav = function(){
 
     return(
-        <nav>
-            <div className="container py-3.5 bg-[#ffffff66] flex justify-between items-center">
+        <nav className='bg-[#ffffff66]'>
+            <div className="container py-3.5 flex justify-between items-center">
                 <div>
                     <Img src={Logo} alt='logo'></Img>
                 </div>
