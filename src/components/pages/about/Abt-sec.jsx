@@ -7,7 +7,9 @@ import Eight from '../../../assets/img/8.webp.png'
 const Abt1 = function () {
 
     return (
-        <section className="w-full bg-[#0a3f87]">
+        <section className="w-full relative">
+            <div className="w-full h-[140vh] bg-[#0a3f87] absolute top-0 left-0 -z-10">
+            </div>
             <div className="container">
                 <div className="py-25 flex justify-around items-center">
                     <div className="flex flex-col items-start gap-8.25">
