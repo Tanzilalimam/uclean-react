@@ -25,7 +25,7 @@ const Pricing = function () {
                             <p className="text-[#161c2d] text-[16px] font-semibold leading-6.25 capitalize">recurring(weekly/biweekly)</p>
                             <div className="flex items-start gap-0">
                             <p className="mt-5.5 text-[#707070] text-[16px] leading-7.25 capitalize">$</p>
-                            <h3 className="text-[#212529] text-[64px] font-bold leading-7.25 uppercase">49</h3>
+                            <h3 className="text-[#212529] text-[64px] font-bold leading-7.25 uppercase">43</h3>
                             <p className="mt-5.5 text-[#707070] text-[16px] leading-7.25 capitalize">/hour/cleaner</p>
                         </div>
                             <button className='py-1.75 px-6.25 bg-[#4881fb50] hover:bg-[#4881fb] hover:text-white text-[13px] border-0 rounded-[30px] font-bold capitalize transition-all ease-linear duration-300 cursor-pointer'>book now</button>
@@ -34,7 +34,7 @@ const Pricing = function () {
                             <p className="text-[#161c2d] text-[16px] font-semibold leading-6.25 capitalize">office & commercial</p>
                             <div className="flex items-start gap-0">
                             <p className="mt-5.5 text-[#707070] text-[16px] leading-7.25 capitalize">$</p>
-                            <h3 className="text-[#212529] text-[64px] font-bold leading-7.25 uppercase">49</h3>
+                            <h3 className="text-[#212529] text-[64px] font-bold leading-7.25 uppercase">40</h3>
                             <p className="mt-5.5 text-[#707070] text-[16px] leading-7.25 capitalize">/hour/cleaner</p>
                         </div>
                             <button className='py-1.75 px-6.25 bg-[#4881fb50] hover:bg-[#4881fb] hover:text-white text-[13px] border-0 rounded-[30px] font-bold capitalize transition-all ease-linear duration-300 cursor-pointer'>book now</button>

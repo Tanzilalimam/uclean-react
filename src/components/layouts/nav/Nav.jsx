@@ -1,5 +1,5 @@
-import Logo from '../../../assets/img/logo.png'
 import Img from '../../ui/images/Img'
+import Logo from '../../../assets/img/logo.png'
 
 const Nav = function(){
 
